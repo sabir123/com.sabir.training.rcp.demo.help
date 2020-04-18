@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Help
+Bundle-SymbolicName: com.sabir.training.rcp.demo.help;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: SABIR
+Automatic-Module-Name: com.sabir.training.rcp.demo.help
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.help.ui;bundle-version="4.1.800",
+ org.eclipse.help.webapp;bundle-version="3.9.800",
+ org.eclipse.jetty.webapp;bundle-version="9.4.26"

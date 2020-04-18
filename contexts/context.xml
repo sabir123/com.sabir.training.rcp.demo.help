@@ -1,0 +1,6 @@
+<contexts>
+   <context id="message">
+      <description>Show Message HELP.</description>
+      <topic href="html/gettingstarted/subtopic.html" label="Subtopic" />
+   </context>
+</contexts>
